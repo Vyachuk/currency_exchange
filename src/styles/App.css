@@ -1,0 +1,10 @@
+.Wrap {
+  position: relative;
+}
+h1{
+  font-size: 45px;
+}
+h2{
+  font-size: 14px;
+  font-weight: 400;
+}

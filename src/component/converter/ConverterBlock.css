@@ -1,0 +1,28 @@
+.Wrap-app {
+    width: 1000px;
+    height: 250px;
+    margin: 80px auto;
+    color: white;
+    display: flex;
+}
+.Wrap_start {
+    background-color: white;
+    flex-basis: 50%;
+    color: black;
+}
+.Wrap_finish {
+    background-color: rgb(0, 130, 155);
+    flex-basis: 50%;
+}
+.Wrap_finish input, .Wrap_finish select{
+    color: white;
+}
+.column {
+    padding: 50px 60px;
+}
+p{
+    font-weight: 600;
+}
+span{
+    font-size: 12px;
+}
